@@ -1,4 +1,4 @@
-/* Joao Luís Chiarelotto Crema
+/* Joao Luis Chiarelotto Crema
 ENUNCIADO
 
 Sua tarefa será construir uma hash table usando como estrutura base uma árvore
